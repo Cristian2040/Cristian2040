@@ -1,0 +1,32 @@
+name: generate snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # cada 12 horas
+  workflow_dispatch: {}
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: Platane/snk/svg-only@v3
+        id: snake
+        with:
+          github_user_name: Cristian2040
+          outputs: |
+            dist/github-contribution-grid-snake-dark.svg?color_snake=22D3EE&color_dots=2a2444,453869,6247a0,8b5fd1,a78bfa
+            dist/github-contribution-grid-snake.svg?color_snake=089182&color_dots=e8eaf2,c9d0e8,9faedc,8b6ee0,7c3aed
+
+      - uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
