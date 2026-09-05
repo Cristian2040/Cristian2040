@@ -21,8 +21,8 @@ jobs:
         with:
           github_user_name: Cristian2040
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?color_snake=%2322D3EE&color_dots=%232a2444,%235b21b6,%237c3aed,%23a855f7,%23b026ff
-            dist/github-contribution-grid-snake.svg?color_snake=%23089182&color_dots=%23f3eeff,%23e9d5ff,%23c084fc,%23a855f7,%23b026ff
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%2300E676&color_dots=%232a2444,%235b21b6,%237c3aed,%23a855f7,%23b026ff
+            dist/github-contribution-grid-snake.svg?color_snake=%2300E676&color_dots=%23f3eeff,%23e9d5ff,%23c084fc,%23a855f7,%23b026ff
 
       - uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
