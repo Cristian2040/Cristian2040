@@ -9,17 +9,17 @@
 
 <!-- Streak -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Cristian2040&background=0A101F&ring=22D3EE&fire=108981&currStreakLabel=E7EAF2&sideLabels=7C8AA5&dates=7C8AA5&border=1C2540&currStreakNum=E7EAF2&sideNums=E7EAF2" />
-  <img width="100%" src="https://streak-stats.demolab.com/?user=Cristian2040&background=F7F8FC&ring=089182&fire=108981&currStreakLabel=1B2033&sideLabels=5B6478&dates=5B6478&border=D8DCEA&currStreakNum=1B2033&sideNums=1B2033" alt="GitHub Streak" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Cristian2040&background=0A101F&ring=22D3EE&fire=0080FF&currStreakLabel=E7EAF2&sideLabels=7C8AA5&dates=7C8AA5&border=1C2540&currStreakNum=E7EAF2&sideNums=E7EAF2" />
+  <img width="100%" src="https://streak-stats.demolab.com/?user=Cristian2040&background=45,F3E8FF,FFFFFF&ring=B026FF&fire=B026FF&currStreakLabel=1B2033&sideLabels=5B6478&dates=5B6478&border=E0C3FC&currStreakNum=1B2033&sideNums=1B2033" alt="GitHub Streak" />
 </picture>
 
 <!-- Stats + Top Langs, lado a lado -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-xi-liart-46srfjavj9.vercel.app/api?username=Cristian2040&border_radius=0&hide_rank=true&show_icons=true&bg_color=0A101F&title_color=22D3EE&text_color=E7EAF2&icon_color=108981&border_color=1C2540" />
-  <img width="49%" src="https://github-readme-stats-xi-liart-46srfjavj9.vercel.app/api?username=Cristian2040&border_radius=0&hide_rank=true&show_icons=true&bg_color=F7F8FC&title_color=089182&text_color=1B2033&icon_color=108981&border_color=D8DCEA" alt="Cristian's GitHub Stats" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-xi-liart-46srfjavj9.vercel.app/api?username=Cristian2040&border_radius=10&hide_rank=true&show_icons=true&bg_color=0A101F&title_color=22D3EE&text_color=E7EAF2&icon_color=0080FF&border_color=1C2540" />
+  <img width="49%" src="https://github-readme-stats-xi-liart-46srfjavj9.vercel.app/api?username=Cristian2040&border_radius=10&hide_rank=true&show_icons=true&bg_color=45,F3E8FF,FFFFFF&title_color=B026FF&text_color=1B2033&icon_color=B026FF&border_color=E0C3FC" alt="Cristian's GitHub Stats" />
 </picture><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-xi-liart-46srfjavj9.vercel.app/api/top-langs/?username=Cristian2040&border_radius=0&layout=compact&bg_color=0A101F&title_color=22D3EE&text_color=E7EAF2&border_color=1C2540" />
-  <img width="49%" src="https://github-readme-stats-xi-liart-46srfjavj9.vercel.app/api/top-langs/?username=Cristian2040&border_radius=0&layout=compact&bg_color=F7F8FC&title_color=089182&text_color=1B2033&border_color=D8DCEA" alt="Top Languages" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-xi-liart-46srfjavj9.vercel.app/api/top-langs/?username=Cristian2040&border_radius=10&layout=compact&bg_color=0A101F&title_color=22D3EE&text_color=E7EAF2&border_color=1C2540" />
+  <img width="49%" src="https://github-readme-stats-xi-liart-46srfjavj9.vercel.app/api/top-langs/?username=Cristian2040&border_radius=10&layout=compact&bg_color=45,F3E8FF,FFFFFF&title_color=B026FF&text_color=1B2033&border_color=E0C3FC" alt="Top Languages" />
 </picture>
 
 <br/><br/>
