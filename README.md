@@ -9,16 +9,16 @@
 
 <!-- Streak -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Cristian2040&background=0A101F&ring=22D3EE&fire=0080FF&currStreakLabel=E7EAF2&sideLabels=7C8AA5&dates=7C8AA5&border=1C2540&currStreakNum=E7EAF2&sideNums=E7EAF2" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Cristian2040&background=135,0A101F,2D1B4E&ring=22D3EE&fire=B026FF&currStreakLabel=E7EAF2&sideLabels=7C8AA5&dates=7C8AA5&border=3D2E5C&currStreakNum=E7EAF2&sideNums=E7EAF2" />
   <img width="100%" src="https://streak-stats.demolab.com/?user=Cristian2040&background=45,F3E8FF,FFFFFF&ring=B026FF&fire=B026FF&currStreakLabel=1B2033&sideLabels=5B6478&dates=5B6478&border=E0C3FC&currStreakNum=1B2033&sideNums=1B2033" alt="GitHub Streak" />
 </picture>
 
 <!-- Stats + Top Langs, lado a lado -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-xi-liart-46srfjavj9.vercel.app/api?username=Cristian2040&border_radius=10&hide_rank=true&show_icons=true&bg_color=0A101F&title_color=22D3EE&text_color=E7EAF2&icon_color=0080FF&border_color=1C2540" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-xi-liart-46srfjavj9.vercel.app/api?username=Cristian2040&border_radius=10&hide_rank=true&show_icons=true&bg_color=135,0A101F,2D1B4E&title_color=22D3EE&text_color=E7EAF2&icon_color=B026FF&border_color=3D2E5C" />
   <img width="49%" src="https://github-readme-stats-xi-liart-46srfjavj9.vercel.app/api?username=Cristian2040&border_radius=10&hide_rank=true&show_icons=true&bg_color=45,F3E8FF,FFFFFF&title_color=B026FF&text_color=1B2033&icon_color=B026FF&border_color=E0C3FC" alt="Cristian's GitHub Stats" />
 </picture><picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-xi-liart-46srfjavj9.vercel.app/api/top-langs/?username=Cristian2040&border_radius=10&layout=compact&bg_color=0A101F&title_color=22D3EE&text_color=E7EAF2&border_color=1C2540" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-xi-liart-46srfjavj9.vercel.app/api/top-langs/?username=Cristian2040&border_radius=10&layout=compact&bg_color=135,0A101F,2D1B4E&title_color=22D3EE&text_color=E7EAF2&border_color=3D2E5C" />
   <img width="49%" src="https://github-readme-stats-xi-liart-46srfjavj9.vercel.app/api/top-langs/?username=Cristian2040&border_radius=10&layout=compact&bg_color=45,F3E8FF,FFFFFF&title_color=B026FF&text_color=1B2033&border_color=E0C3FC" alt="Top Languages" />
 </picture>
 
@@ -58,7 +58,7 @@
       <table width="100%" border="0" cellspacing="0" cellpadding="14">
         <tr>
           <td width="100%" style="border:1px solid #FBBF24;border-radius:6px;">
-            <a href="#" style="text-decoration:none;">
+            <a href="https://sofccey.onrender.com" style="text-decoration:none;">
               <span style="font-family:'JetBrains Mono',monospace;font-size:16px;color:#FBBF24;font-weight:bold;">SOFCEY</span>
             </a>
             <br/>
@@ -205,3 +205,13 @@
   </tr>
 
 </table>
+
+<br/>
+
+<!-- Certifications & Current Focus -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/certifications-dark.svg" />
+    <img src="assets/certifications-light.svg" alt="Certifications and Current Focus" width="100%" />
+  </picture>
+</div>
